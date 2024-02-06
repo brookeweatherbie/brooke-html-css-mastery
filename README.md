@@ -1,4 +1,4 @@
-Brooke's HTML CSS Mastery
+# Brooke's HTML CSS Mastery
 
 By Brooke Weatherbie, Intro to Coding for Journalists Class
 
