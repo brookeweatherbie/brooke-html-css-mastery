@@ -2,4 +2,4 @@
 
 By Brooke Weatherbie, Intro to Coding for Journalists Class
 
-This assignment is to prove my mastery in HTML. It is due February 2, 2024.
+This assignment is to prove my mastery in HTML and CSS. It is due February 9, 2024.
