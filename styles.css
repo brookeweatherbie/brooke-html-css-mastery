@@ -17,36 +17,37 @@ article {
 }
 
 h1, h2, h3, h4 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif, 'Times New Roman';
 }
 
 h1 {
   font-size: 2.7rem;
-  line-height: 3.1rem;
+  line-height: 3rem;
   margin: 20px 0;
 }
 
 h2 {
   font-size: 2rem;
-  line-height: 2.4rem;
+  line-height: 2.2rem;
   margin: 16px 0;
 }
 
 h3 {
-  font-size: 1.75rem;
+  font-size: 1.85rem;
+  line-height: 2rem;
   margin: 25px 0 8px 0;
 }
 
 h4 {
   font-size: 1.5rem;
-  line-height: 2rem;
+  line-height: 1.7rem;
   margin: 16px 0;
 }
 
 .byline {
   font-family: Arial, sans-serif, 'Times New Roman';
   font-size: 1.4rem;
-  line-height: 2rem;
+  line-height: 1.6rem;
 }
 
 figcaption {
@@ -63,7 +64,7 @@ span {
 
 blockquote {
   border-left: solid grey 4px;
-  padding: 20px;
+  padding-left: 20px;
   margin-left: 30px;
 }
 
